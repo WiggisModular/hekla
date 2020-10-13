@@ -15,18 +15,20 @@ _saved_*
 *.net
 
 # BOM plugin output
-*.csv.tmp
-*.csv
-*.xml
+BOM
+
+## Pick and place
+pp
 
 # Gerbers
-*.gbr
-
-# Drill files
-*.drl
+gerber
 
 # Footprint info cache
 fp-info-cache
 
 # Autosave files
 _autosave-*
+
+# svg2shenzen-cache
+.svg2shenzhen-cache/
+
