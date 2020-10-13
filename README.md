@@ -21,4 +21,4 @@ Original data https://commons.wikimedia.org/wiki/File:Hekla1980.jpg#/media/File:
 
 ## Production files
 
-Gerber, a schematic and a placement drawing, as well as a BOM and a pick and place file to get the SMD parts assembled over at JLCPCB will be available as releases
+Gerber, a schematic and a placement drawing, as well as a BOM and a pick and place file to get the SMD parts assembled over at JLCPCB will be available as releases as soon as I tested the first batch.
