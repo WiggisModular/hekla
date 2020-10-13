@@ -13,3 +13,12 @@ https://forum.kicad.info/t/designing-featherwings-in-kicad/6115/2
 https://blog.thea.codes/designing-big-honking-button/
 
 BTW: Follow her on twitter, read her blog, buy her modules. Wholesome content from a kickass person.
+
+### Frontpanel copper layer 
+
+Original data https://commons.wikimedia.org/wiki/File:Hekla1980.jpg#/media/File:Hekla1980.jpg
+
+
+## Production files
+
+Gerber, a schematic and a placement drawing, as well as a BOM and a pick and place file to get the SMD parts assembled over at JLCPCB will be available as releases
